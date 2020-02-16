@@ -26,3 +26,4 @@ Data fields
 
 The whole analysis is split into two files.  
 [Exploratroy Data Analysis](Predict_Future_Sales/Predict_Future_Sales_EDA.ipynb)
+[Model Examination](Predict_Future_Sales/Predict_Future_Sales_LSTM.ipynb)
