@@ -23,3 +23,6 @@ Data fields
 * item_name - name of item  
 * shop_name - name of shop  
 * item_category_name - name of item category  
+
+The whole analysis is split into two files.  
+[Exploratroy Data Analysis](Predict_Future_Sales/Predict_Future_Sales_EDA.ipynb)
