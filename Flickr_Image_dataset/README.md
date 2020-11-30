@@ -1,4 +1,6 @@
-##  Flickr Image captioning dataset
+##  Flickr Image captioning dataset   
+**Dataset Link** : https://www.kaggle.com/hsankesara/flickr-image-dataset   
+**Personal Notebook Link** : https://www.kaggle.com/stephenyang0215/flickr-image-captioning      
 The Flickr30k dataset has become a standard benchmark for sentence-based image description.   
 This paper presents Flickr30k Entities, which augments the 158k captions from Flickr30k with 244k coreference chains, linking mentions of the same entities across different captions for the same image, and associating them with 276k manually annotated bounding boxes.  
 Such annotations are essential for continued progress in automatic image description and grounded language understanding.   
