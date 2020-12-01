@@ -1,3 +1,4 @@
 ## HindiEnglish Corpora   
-The data available at https://www.clarin.eu/resource-families/parallel-corpora. 
+**Dataset Link** : https://www.kaggle.com/aiswaryaramachandran/hindienglish-corpora     
+**Personal Notebook Link** : https://www.kaggle.com/stephenyang0215/hindienglish-corpora     
 **Objective** : NLP task for English translation to Hindi language.
